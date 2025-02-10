@@ -10,7 +10,8 @@
 }
 
 :root {
-    --text-color: black
+    --text-color: black;
+    --accent-color: #a5c7cf;
     scroll-behavior: smooth;
 }
 
